@@ -1,0 +1,83 @@
+body {
+  width: 100vw;
+}
+
+body header nav {
+  background-color: #912ab3;
+}
+
+body header nav .container-fluid .navbar-brand {
+  margin: 0;
+  width: 135px;
+  height: 135px;
+}
+
+body header nav .container-fluid .offcanvas {
+  width: 60vw;
+  background-color: #912ab3;
+}
+
+body #bacgrownnav {
+  background-color: #912ab3;
+  width: 100vw;
+  height: 18vh;
+}
+
+body #acceuil .card-body h1 {
+  color: #B437DF;
+}
+
+body #acceuil img {
+  width: 75%;
+}
+
+body .fond {
+  background-color: #B437DF;
+}
+
+body #info {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(180, 55, 223, 0.2)), to(rgba(145, 42, 179, 0.3))), url(../images/fondparalax.jpg);
+  background-image: linear-gradient(rgba(180, 55, 223, 0.2), rgba(145, 42, 179, 0.3)), url(../images/fondparalax.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: auto;
+  color: white;
+}
+
+body #info img {
+  width: 75%;
+}
+
+body #contacte .card .fas {
+  font-size: 2.5em;
+}
+
+body #contacte .card .fab {
+  font-size: 2.5em;
+}
+
+body #contacte .card:hover {
+  color: #B437DF;
+ color: white;
+}
+body #participent {
+  background-color: #912ab3;
+ color: white;
+}
+body #participent .card {
+  background-color: #912ab3;
+}
+body #reseau {
+  background-color: #912ab3;
+ color: white;
+}
+body #reseau .card {
+  background-color: #912ab3;
+} 
+  background-color: #912ab3;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */

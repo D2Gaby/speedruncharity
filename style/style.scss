@@ -1,0 +1,72 @@
+body { 
+    width: 100vw;
+        header {
+            nav {
+                background-color: #912ab3;
+                .container-fluid{
+                    .navbar-brand{
+                        margin: 0;
+                        width: 135px;
+                        height: 135px;
+                    }
+                    .offcanvas{width: 300px;
+                    background-color: #912ab3;}
+                }
+                
+            }
+        }
+        #bacgrownnav{
+            background-color: #912ab3;
+            width: 100vw;
+            height: 21vh;
+        }
+        #acceuil {
+            .card-body {
+                h1 {
+                    color: #B437DF;
+                }
+            }
+            img{width: 75%;}
+        }
+
+        .fond {
+            background-color: #B437DF;
+        }
+
+        #profile {
+            background-image: linear-gradient(rgba(180, 55, 223, 0.2),
+                    rgba(145, 42, 179, 0.3)), url(../images/fondparalax.jpg);
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 100vw;
+            height: auto;
+            color: white;
+            img{
+                width: 75%;
+            }
+        }
+
+        #contacte {
+
+            .card {
+                .fas {
+                    font-size: 2.5em;
+                }
+
+                .fab {
+                    font-size: 2.5em;
+                }
+            }
+
+            .card:hover {
+                color: #B437DF;
+            }
+        }
+
+        footer {
+            background-color: #912ab3;
+            color: white;
+        }
+    }
