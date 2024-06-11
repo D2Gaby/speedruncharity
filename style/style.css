@@ -3,7 +3,7 @@ body {
 }
 
 body header nav {
-  background-color: #912ab3;
+  background-color: #0557FC;
 }
 
 body header nav .container-fluid .navbar-brand {
@@ -14,11 +14,11 @@ body header nav .container-fluid .navbar-brand {
 
 body header nav .container-fluid .offcanvas {
   width: 60vw;
-  background-color: #912ab3;
+  background-color: #0557FC;
 }
 
 body #bacgrownnav {
-  background-color: #912ab3;
+  background-color: #0557FC;
   width: 100vw;
   height: 18vh;
 }
@@ -64,20 +64,20 @@ body #contacte .card:hover {
  color: white;
 }
 body #participent {
-  background-color: #912ab3;
+  background-color: #0557FC;
  color: white;
 }
 body #participent .card {
-  background-color: #912ab3;
+  background-color: #0557FC;
 }
 body #reseau {
-  background-color: #912ab3;
+  background-color: #0557FC;
  color: white;
 }
 body #reseau .card {
-  background-color: #912ab3;
+  background-color: #0557FC;
 } 
-  background-color: #912ab3;
+  background-color: #0557FC;
   color: white;
 }
 /*# sourceMappingURL=style.css.map */
