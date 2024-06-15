@@ -1,7 +1,10 @@
 body {
   width: 100vw;
 }
+li {
 
+  fontsize:100vw;
+}
 body header nav {
   background-color: #0557FC;
 }
