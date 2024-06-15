@@ -3,7 +3,7 @@ body {
 }
 li {
 
-  fontsize:100vw;
+  font-size:100vw;
 }
 body header nav {
   background-color: #0557FC;
