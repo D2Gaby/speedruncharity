@@ -1,10 +1,6 @@
 body {
   width: 100vw;
 }
-li {
-
-  font-size:100vw;
-}
 body header nav {
   background-color: #0557FC;
 }
@@ -79,8 +75,5 @@ body #reseau {
 }
 body #reseau .card {
   background-color: #0557FC;
-} 
-  background-color: #0557FC;
-  color: white;
 }
 /*# sourceMappingURL=style.css.map */
